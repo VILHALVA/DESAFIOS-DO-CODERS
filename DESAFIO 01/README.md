@@ -18,6 +18,6 @@ Ao adicionar o seu nome, por favor observe:
 | SEU NOME AQUI                  | https://github.com/SEU_USUARIO_AQUI      |
 | Outro Nome                     | https://github.com/OUTRO_USUARIO        |
 | ...                            | ...                                     |
-```
 
+---
 Lembre-se de que os participantes devem adicionar seus próprios nomes e links do GitHub à tabela, seguindo essas instruções.
