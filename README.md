@@ -10,7 +10,7 @@ Vamos juntos embarcar nesta jornada de aprendizado e programação!
 Claro, aqui está o requisito com uma explicação sobre por que é importante:
 
 ## REQUISITOS:
-* 1) Antes de começar você deve fazer o curso de [GITHUB](https://github.com/VILHALVA/CURSO-DE-GITHUB), pois você precisará saber fazer Fork, Commit, criar Branch e Pull para subir o seu código.
+1. Antes de começar você deve fazer o curso de [GITHUB](https://github.com/VILHALVA/CURSO-DE-GITHUB), pois você precisará saber fazer Fork, Commit, criar Branch e Pull para subir o seu código.
 
    **Por que este requisito é importante?**
 
@@ -26,7 +26,7 @@ Claro, aqui está o requisito com uma explicação sobre por que é importante:
 
    Portanto, fazer o curso de GitHub garantirá que você tenha as habilidades necessárias para participar ativamente e contribuir de forma eficiente para os desafios deste repositório.
 
-* 2) Você precisa saber alguma linguagem de programação. Se não souber, [clique aqui](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) para fazer um de nossos cursos.
+2. Você precisa saber alguma linguagem de programação. Se não souber, [clique aqui](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) para fazer um de nossos cursos.
 
    **Por que este requisito é importante?**
 
@@ -54,16 +54,18 @@ Claro, aqui está o requisito com uma explicação sobre por que é importante:
 Estas regras visam garantir um ambiente de colaboração produtivo e respeitoso, onde todos os membros possam contribuir e aprender de maneira construtiva.
 
 ## INSTRUNÇÕES:
-* 1) Faça o Fork desse repositório. Se não sabe como fazer, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/15)%20FAZENDO%20O%20FORK.md) para ler o manual.
-* 2) Clone este repositório para o seu ambiente local usando o seguinte comando no terminal:
+1. Faça o Fork desse repositório. Se não sabe como fazer, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/15)%20FAZENDO%20O%20FORK.md) para ler o manual.
+
+2. Clone este repositório para o seu ambiente local usando o seguinte comando no terminal:
 
 ```bash
 git clone https://github.com/VILHALVA/OS-DESAFIOS.git
 ```
 Este comando fará uma cópia deste repositório em seu computador para que você possa trabalhar nos desafios localmente. Certifique-se de que o Git esteja instalado em sua máquina antes de executar o comando.
 
-* 3) Dentro de cada Diretório (DESAFIO 01, DESAFIO 02...) tem um README.md contendo instruções de como devem ser feitos.
-* 4) Faça o desafio dentro do repositório correspondente ao desafio. E neste repositório crie uma pasta com o seu primeiro nome ou sobrenome ou user do GITHUB. Ex: Dentro da pasta "DESAFIO 03" crie uma pasta com o nome "FULANO" (Coloque seu nome/sobrenome/user). Dentro da pasta "FULANO" coloque seus arquivos/códigos com o README.md contendo a descrição do projeto e requerimentos. Veja uma representação:
+3. Dentro de cada Diretório (DESAFIO 01, DESAFIO 02...) tem um README.md contendo instruções de como devem ser feitos.
+
+4. Faça o desafio dentro do repositório correspondente ao desafio. E neste repositório crie uma pasta com o seu primeiro nome ou sobrenome ou user do GITHUB. Ex: Dentro da pasta "DESAFIO 03" crie uma pasta com o nome "FULANO" (Coloque seu nome/sobrenome/user). Dentro da pasta "FULANO" coloque seus arquivos/códigos com o README.md contendo a descrição do projeto e requerimentos. Veja uma representação:
 ```
 Projeto de Desafio
 |
@@ -91,9 +93,11 @@ Projeto de Desafio
 ...
 ```
 
-* 5) Após terminar de fazer o desafio, faça o commit em outro branch (Não pode ser no main nem no master). Ao invéis disso crie o seu próprio branch. Se não souber como criar, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/09)%20CRIANDO%20BRANCH.md) para ler o manual.
-* 6) Após o commit no seu próprio branch, faça o Pull Requests (PR). Se não sabe como fazer, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/14)%20FAZENDO%20PR.md) para ler o manual. 
-* 7) Agora é só aguardar aprovação do seu PR. Um dos ADMS irá fazer [MERGER](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/10)%20FUNDINDO%20BRANCHES.md), fundindo o seu branch ao principal. Se você seguir as regras, tudo correrá bem.
+5. Após terminar de fazer o desafio, faça o commit em outro branch (Não pode ser no main nem no master). Ao invéis disso crie o seu próprio branch. Se não souber como criar, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/09)%20CRIANDO%20BRANCH.md) para ler o manual.
+
+6. Após o commit no seu próprio branch, faça o Pull Requests (PR). Se não sabe como fazer, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/14)%20FAZENDO%20PR.md) para ler o manual. 
+
+7. Agora é só aguardar aprovação do seu PR. Um dos ADMS irá fazer [MERGER](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/10)%20FUNDINDO%20BRANCHES.md), fundindo o seu branch ao principal. Se você seguir as regras, tudo correrá bem.
 
 ## CONSIDERAÇÕES FINAIS:
 Agradecemos por escolher fazer parte dos Desafios de Programação do Grupo CODERS. Nossa comunidade é construída por pessoas apaixonadas por programação, aprendizado e colaboração, e estamos empolgados em tê-lo a bordo.
