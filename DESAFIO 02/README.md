@@ -42,9 +42,6 @@ Compartilhe suas visões e opiniões sobre o futuro da tecnologia e do desenvolv
 
 4. Após concluir sua redação, siga as instruções do README principal para submeter seu desafio.
 
-## Exemplo
-Você pode incluir um exemplo de redação que responda às perguntas acima ou escrever suas próprias respostas.
-
 ---
 
 Este desafio oferece uma oportunidade para refletir sobre sua jornada de programação, compartilhar insights e conectar-se com outros membros do grupo CODERS que compartilham interesses similares. Divirta-se escrevendo sua redação e compartilhando suas experiências!
