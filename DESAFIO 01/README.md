@@ -22,4 +22,4 @@ Ao adicionar o seu nome, por favor observe:
 * Lembre-se de que os participantes devem adicionar seus próprios nomes e links do GitHub à tabela, seguindo essas instruções.
 
 ## CREDITOS:
-* Esse desafio não foi criado por mim (VILHALVA), mas pelo ["OS PROGRAMADORES"](https://osprogramadores.com/desafios/d01/)
+* Esse desafio não foi criado por mim (VILHALVA), mas pelo ["OS PROGRAMADORES"](https://osprogramadores.com/desafios/d01/).
