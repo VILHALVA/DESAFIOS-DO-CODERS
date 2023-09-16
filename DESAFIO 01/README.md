@@ -1,4 +1,4 @@
-# DESAFIO 01: SEU NOME NA TABELA
+# DESAFIO 01: TABELA DE PARTICIPANTES
 COLOQUE SEU NOME E LINK DO GITHUB NA TABELA DE PARTICIPANTES.
 
 ## REGRAS:
@@ -18,4 +18,6 @@ Ao adicionar o seu nome, por favor observe:
 | ...                            | ...                                     |
 
 ---
-Lembre-se de que os participantes devem adicionar seus próprios nomes e links do GitHub à tabela, seguindo essas instruções.
+* Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
+
+* Lembre-se de que os participantes devem adicionar seus próprios nomes e links do GitHub à tabela, seguindo essas instruções.
