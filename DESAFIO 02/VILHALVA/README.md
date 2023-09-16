@@ -1,9 +1,9 @@
 * **01) POR QUE VOCÊ DECIDIU ESTUDAR PROGRAMAÇÃO?**
 > Decidi estudar programação por dois motivos principais: 
 
-1) **Trabalhar na área:** A área de programação oferece remuneração atrativa e oportunidades profissionais crescentes.
+> 1) **Trabalhar na área:** A área de programação oferece remuneração atrativa e oportunidades profissionais crescentes.
 
-2) **Criar meus próprios projetos:** Além do aspecto financeiro, programação me permite a liberdade de criar minhas próprias aplicações e automatizar tarefas.
+> 2) **Criar meus próprios projetos:** Além do aspecto financeiro, programação me permite a liberdade de criar minhas próprias aplicações e automatizar tarefas.
 
 * **02) QUAL ÁREA DO TI DESEJA TRABALHAR?**
 > Tenho interesse em atuar nas áreas de Cyber Segurança e Inteligência Artificial.
