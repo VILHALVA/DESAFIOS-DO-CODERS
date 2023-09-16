@@ -21,7 +21,7 @@ Neste desafio, você terá a tarefa de criar um site estático utilizando apenas
 
 3. Certifique-se de que o site esteja de acordo com as boas práticas de design e usabilidade.
 
-4. Após concluir o site, siga as instruções do README principal para submeter seu desafio.
+4. Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
 
 ---
 

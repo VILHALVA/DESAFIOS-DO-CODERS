@@ -7,9 +7,7 @@ Ao adicionar o seu nome, por favor observe:
 * A lista é ordenada por *nome*, seguida de *prenome* e *sobrenome*.
 * URLs do github deverão ser no formato: `https://github.com/seu_usuario`
 * Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
-* Se necessário, realinhe as barras verticais de todos os nomes se o seu
-  nome ou URL do Github pages forem muito longos pro espacamamento
-  atual.
+* Se necessário, realinhe as barras verticais de todos os nomes se o seu nome ou URL do Github pages forem muito longos pro espacamamento atual.
 
 ## PARTICIPANTES
 

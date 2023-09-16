@@ -25,7 +25,9 @@ Você pode escolher qualquer tipo de projeto que lhe interesse e que esteja alin
 
 6. Aprimore e otimize seu projeto conforme necessário. Leve em consideração o feedback de outras pessoas, se aplicável.
 
-7. Quando o projeto estiver concluído e você estiver satisfeito com ele, compartilhe-o no GitHub e adicione-o ao seu portfólio pessoal.
+7. Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
+
+> **OBSERVAÇÃO:** Se você já tem um projeto pronto, e ele já está no seu repositório do GITHUB, recomendamos que você crie aqui apenas o seu `README.md` contendo a descrição e o link de direcionamento.
 
 ## Por Que Criar Seu Próprio Projeto?
 Criar seu próprio projeto é uma maneira poderosa de aplicar o que você aprendeu e desenvolver suas habilidades. Além disso, permite que você demonstre sua criatividade e paixão por programação. Ter projetos pessoais em seu portfólio também pode ser um diferencial ao buscar oportunidades de trabalho ou colaboração com outros desenvolvedores.

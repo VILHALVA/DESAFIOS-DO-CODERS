@@ -29,7 +29,7 @@ Aqui estão alguns exemplos de jogos que você pode criar:
 
 5. Documente as regras e a jogabilidade do jogo.
 
-6. Siga as instruções do README principal para submeter seu desafio.
+6. Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
 
 ---
 

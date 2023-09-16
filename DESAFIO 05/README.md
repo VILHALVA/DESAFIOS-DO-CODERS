@@ -33,7 +33,7 @@ Aqui estão alguns exemplos de tarefas que podem ser automatizadas usando script
 
 4. Documente o funcionamento do script (com o README.md), incluindo qualquer configuração ou parâmetros necessários.
 
-5. Siga as instruções do README principal para submeter seu desafio.
+5. Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
 
 ---
 

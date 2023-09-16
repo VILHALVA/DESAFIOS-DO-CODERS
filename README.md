@@ -1,4 +1,10 @@
 # DESAFIOS DE PROGRAMADORES DO GRUPO CODERS
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/FAÇA%20NOSSOS-CURSOS-03A9F4?logo=google)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
+
+<img src="https://cdn-icons-png.flaticon.com/128/4838/4838640.png" align="center" width="280"> <b
+
+## INTRODUÇÃO:
 Bem-vindo aos Desafios de Programação do Grupo CODERS! Neste repositório, você encontrará uma série de desafios voltados para aprimorar suas habilidades de programação e desenvolvimento. Estes desafios foram criados pelos membros entusiastas do [Grupo CODERS](https://t.me/CODIGOGP) e são projetados para oferecer oportunidades de aprendizado e colaboração.
 
 Se você é apaixonado por codificação e deseja expandir seus conhecimentos, este é o lugar certo para começar. Antes de mergulhar nos desafios, certifique-se de atender aos requisitos e seguir as regras estabelecidas para uma experiência suave.
@@ -174,8 +180,8 @@ Lembre-se de que os desafios são uma oportunidade valiosa para expandir seus co
 
 Estamos ansiosos para ver suas soluções criativas para os desafios e observar seu crescimento como desenvolvedor. Juntos, podemos alcançar novos patamares na programação. Vamos codificar! 🚀
 
-## CREDITOS:
-* [OS DESAFIOS FORAM CRIADOS PELO VILHALVA (DESAFIOS 02-10)](https://github.com/VILHALVA)
-* [A SABRINA NOS AJUDOU EM: 1) DEU A SUGESTÃO DE VINCULARMOS ESSE PROJETO AO GRUPO. 2) NOS EMPRESTOU A SUA CONTA DO GITHUB PARA FAZER OS TESTES](https://github.com/SABRINA1623)
-* [FORAM CRIADOS COM INSPIRAÇÃO DO "OS PROGRAMADORES": 1) NA IDEIA DE CRIAR DESAFIOS PARA INICIANTES. 2) NO TRECHO DESSE README (INSTRUNÇÕES/O QUE FAZER DEPOIS DO ENVIO?). 3) NO DESAFIO 01](https://osprogramadores.com/desafios/)
-* [O CHATGPT NOS AJUDOU COM MELHORIAS DOS READMES](https://chat.openai.com)
+## CREDITOS FINAIS:
+* [OS DESAFIOS FORAM CRIADOS PELO VILHALVA (DESAFIOS 02-10)](https://github.com/VILHALVA);
+* [A SABRINA NOS AJUDOU EM: 1) DEU A SUGESTÃO DE VINCULARMOS ESSE PROJETO AO GRUPO. 2) NOS EMPRESTOU A SUA CONTA DO GITHUB PARA FAZER OS TESTES](https://github.com/SABRINA1623);
+* [FORAM CRIADOS COM INSPIRAÇÃO DO "OS PROGRAMADORES": 1) NA IDEIA DE CRIAR DESAFIOS PARA INICIANTES. 2) NO TRECHO DESSE README (INSTRUNÇÕES/O QUE FAZER DEPOIS DO ENVIO?). 3) NO DESAFIO 01](https://osprogramadores.com/desafios/);
+* [O CHATGPT NOS AJUDOU COM MELHORIAS DOS READMES](https://chat.openai.com).

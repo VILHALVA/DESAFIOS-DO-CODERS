@@ -21,7 +21,7 @@ Sua calculadora web deve atender aos seguintes requisitos:
 
 4. Teste a calculadora para garantir que ela funcione corretamente e forneça resultados precisos.
 
-5. Siga as instruções do README principal para submeter seu desafio.
+5. Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
 
 ---
 

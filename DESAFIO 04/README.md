@@ -33,7 +33,7 @@ Neste desafio, você terá a tarefa de criar uma calculadora de console usando q
 
 4. Após a conclusão da operação, exiba o resultado no console.
 
-5. Siga as instruções do README principal para submeter seu desafio.
+5. Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
 
 ---
 

@@ -27,7 +27,7 @@ O formulário de cadastro deve atender aos seguintes requisitos:
 
 7. Teste o formulário para garantir que ele funcione corretamente, armazene as informações no banco de dados e forneça feedback apropriado.
 
-8. Siga as instruções do README principal para submeter seu desafio.
+8. Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
 
 ---
 

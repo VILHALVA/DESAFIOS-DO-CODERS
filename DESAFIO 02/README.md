@@ -40,7 +40,7 @@ Compartilhe suas visões e opiniões sobre o futuro da tecnologia e do desenvolv
 
 3. Adicione qualquer informação adicional que você acha relevante compartilhar sobre sua jornada de programação.
 
-4. Após concluir sua redação, siga as instruções do README principal para submeter seu desafio.
+4. Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
 
 ---
 
