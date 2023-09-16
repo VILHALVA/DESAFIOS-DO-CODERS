@@ -10,7 +10,7 @@ Vamos juntos embarcar nesta jornada de aprendizado e programação!
 Claro, aqui está o requisito com uma explicação sobre por que é importante:
 
 ## REQUISITOS:
-1. Antes de começar você deve fazer o curso de [GITHUB](https://github.com/VILHALVA/CURSO-DE-GITHUB), pois você precisará saber fazer Fork, Commit, criar Branch e Pull para subir o seu código.
+1. Antes de começar você deve fazer o curso de [GITHUB](https://github.com/VILHALVA/CURSO-DE-GITHUB).
 
    **Por que este requisito é importante?**
 
@@ -54,18 +54,41 @@ Claro, aqui está o requisito com uma explicação sobre por que é importante:
 Estas regras visam garantir um ambiente de colaboração produtivo e respeitoso, onde todos os membros possam contribuir e aprender de maneira construtiva.
 
 ## INSTRUNÇÕES:
-1. Faça o Fork desse repositório. Se não sabe como fazer, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/15)%20FAZENDO%20O%20FORK.md) para ler o manual.
+1. Visite o [repositório DESAFIOS DO CODERS no github](https://github.com/VILHALVA/DESAFIOS-DO-CODERS).
 
-2. Clone este repositório para o seu ambiente local usando o seguinte comando no terminal:
+2. Faça um _fork_ deste repositório clicando no botão `Fork` no canto superior da tela. Isso criará uma cópia completa do repositório sob o seu controle, no github.
 
-```bash
-git clone https://github.com/VILHALVA/OS-DESAFIOS.git
-```
-Este comando fará uma cópia deste repositório em seu computador para que você possa trabalhar nos desafios localmente. Certifique-se de que o Git esteja instalado em sua máquina antes de executar o comando.
+3. Faça um clone do repositório para a sua estação de trabalho:
+   ```
+   git clone https://github.com/<seu_usuario_no_github>/DESAFIOS-DO-CODERS.git
+   ```
+4. Entre no diretório criado pelo git (`DESAFIOS-DO-CODERS`).
 
-3. Dentro de cada Diretório (DESAFIO 01, DESAFIO 02...) tem um README.md contendo instruções de como devem ser feitos.
+5. Crie um "git remote" chamado "upstream" apontando para o repositório principal. Isso facilitará a atualização do seu repositório local:
+   ```
+   git remote add upstream https://github.com/VILHALVA/DESAFIOS-DO-CODERS
+   ```
 
-4. Faça o desafio dentro do repositório correspondente ao desafio. E neste repositório crie uma pasta com o seu primeiro nome ou sobrenome ou user do GITHUB. Ex: Dentro da pasta "DESAFIO 03" crie uma pasta com o nome "FULANO" (Coloque seu nome/sobrenome/user). Dentro da pasta "FULANO" coloque seus arquivos/códigos com o README.md contendo a descrição do projeto e requerimentos. Veja uma representação:
+6. **Antes de começar a trabalhar em qualquer desafio**: é importante resetar os números de _commit_ entre a sua cópia local e o repositório principal (isso acontece porque o repositório principal usa _rebase_ ao invés de _feature branches_). Existem duas maneiras de efetuar essa operação, mas a mais simples é usar "git reset" como indicado abaixo:
+   ```
+   git remote update
+   git reset upstream/master --hard
+   ```
+
+   > **ATENÇÃO**
+   >
+   > Os comandos acima irão reverter **TODAS** as modificações no seu repositório.
+   > É importante executá-los antes de introduzir qualquer modificação. Se você tem
+   > modificações a preservar, a maneira mais simples (para um iniciante) é copiar
+   > os arquivos a serem preservados para outro diretório, efetuar o `git reset`
+   > indicado acima, e copiar os arquivos de volta.
+
+7. Crie um _branch_ de trabalho com um nome adequado. No nosso exemplo, usaremos o nome "dev":
+   ```
+   git checkout -b dev
+   ```
+
+8. Faça o desafio dentro do repositório correspondente ao desafio. E neste repositório crie uma pasta com o seu primeiro nome ou sobrenome ou user do GITHUB. Ex: Dentro da pasta "DESAFIO 03" crie uma pasta com o nome "FULANO" (Coloque seu nome/sobrenome/user). Dentro da pasta "FULANO" coloque seus arquivos/códigos com o README.md contendo a descrição do projeto e requerimentos. Veja uma representação:
 ```
 Projeto de Desafio
 |
@@ -93,11 +116,39 @@ Projeto de Desafio
 ...
 ```
 
-5. Após terminar de fazer o desafio, faça o commit em outro branch (Não pode ser no main nem no master). Ao invéis disso crie o seu próprio branch. Se não souber como criar, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/09)%20CRIANDO%20BRANCH.md) para ler o manual.
+9. Trabalhe normalmente no _branch_ de desenvolvimento. Quando estiver satisfeito
+   com o resultado, faça o _commit_ e o _push_ com:
+   ```
+   git push origin dev --force
+   ```
 
-6. Após o commit no seu próprio branch, faça o Pull Requests (PR). Se não sabe como fazer, [clique aqui](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/14)%20FAZENDO%20PR.md) para ler o manual. 
+10. O `git push` transfere o conteúdo do seu branch corrente ("dev" nesse caso) para a o seu _fork_ no github. Visite a página do seu _fork_ no github (normalmente, https://github.com/SEU-USUARIO-NO-GITHUB/DESAFIOS-DO-CODERS) e clique no botão para abrir um PR.
 
-7. Agora é só aguardar aprovação do seu PR. Um dos ADMS irá fazer [MERGER](https://github.com/VILHALVA/CURSO-DE-GITHUB/blob/main/02)%20VIA%20TERMINAL/10)%20FUNDINDO%20BRANCHES.md), fundindo o seu branch ao principal. Se você seguir as regras, tudo correrá bem.
+## O QUE FAZER DEPOIS DO ENVIO?
+Quando um PR é criado, o github envia um email para os admins, que farão a revisão das modificações e, em caso de aprovação, a incorporação (ou _merge_) das suas mudanças no repositório principal.
+
+Um PR (ou _pull request_) é um **pedido** para incorporar as suas modificações ao repositório principal. A sua tarefa só estará terminada quando os admins tiverem incorporado as suas mudanças ao repositório principal (através de uma operação _merge_).
+
+O repositório principal contém testes de integração que procuram por erros comuns e bloqueiam a aprovação até que estes tenham sido corrigidos. Por isso,
+**fique atento ao seu email e a página do seu PR no github**. Verifique que os testes de integração passaram e procure por mensagens dos admins relacionadas ao seu PR.
+
+Em caso de erros nos testes de integração ou pedido de mudança por parte dos admins, corrija o problema no seu repositório local e crie outro commit com `git commit`, seguido por `git push`. **Não crie outro PR, e não use o comando git reset até que as suas modificações tenham sido incorporadas no repositório principal.**
+
+PRs sem atividade por duas semanas serão automaticamente fechados.
+
+## PERGUNTAS FREQUENTES:
+* **01) É OBRIGATÓRIO FAZER ESSES DESAFIOS?**
+  `R: Não, os desafios não são obrigatórios, mas altamente recomendados para iniciantes.`
+
+* **02) O QUE EU GANHO FAZENDO ESSES DESAFIOS?**
+  `R: Embora você não receba pontos ou recompensas materiais, existem vantagens significativas, incluindo:
+    * **APRENDIZADO:** Você não apenas aprimora suas habilidades de programação, mas também ganha experiência prática com o GitHub, uma plataforma essencial para desenvolvedores.
+    * **CONTRIBUIÇÃO:** Sua participação nos desafios é registrada em seu perfil do GitHub, o que pode ser um acréscimo valioso ao seu portfólio, demonstrando seu comprometimento com projetos colaborativos.
+    * **SEUS PROJETOS:** Programar não se resume apenas a fazer cursos; criar seus próprios projetos pessoais é uma maneira eficaz de aplicar seus conhecimentos e desenvolver habilidades autênticas.
+
+* **3) QUEM GARANTE QUE O CONTRIBUINTE NÃO COPIOU O CÓDIGO DE ALGUÉM OU USOU O CHATGPT?**
+  `R: Não temos a capacidade de verificar individualmente as fontes de código dos contribuintes, nem podemos garantir que alguém não tenha utilizado recursos como o ChatGPT. No entanto, incentivamos fortemente a originalidade e a ética na programação. Lembre-se de que, ao buscar oportunidades de emprego na área de TI, as empresas valorizam a habilidade de escrever código original e compreender profundamente os conceitos. O plágio pode prejudicar sua reputação profissional no longo prazo.
+  * PS: Caso tenha copiado o código de alguém, cite os devidos créditos (A fonte) no seu README.`
 
 ## CONSIDERAÇÕES FINAIS:
 Agradecemos por escolher fazer parte dos Desafios de Programação do Grupo CODERS. Nossa comunidade é construída por pessoas apaixonadas por programação, aprendizado e colaboração, e estamos empolgados em tê-lo a bordo.
@@ -117,5 +168,7 @@ Lembre-se de que os desafios são uma oportunidade valiosa para expandir seus co
 Estamos ansiosos para ver suas soluções criativas para os desafios e observar seu crescimento como desenvolvedor. Juntos, podemos alcançar novos patamares na programação. Vamos codificar! 🚀
 
 ## CREDITOS:
-* [DESAFIOS FORAM CRIADOS POR VILHALVA](https://github.com/VILHALVA)
-* [FORAM CRIADOS COM INSPIRAÇÃO DO "OS PROGRAMADORES"](https://osprogramadores.com/desafios/)
+* [OS DESAFIOS FORAM CRIADOS PELO VILHALVA (DESAFIOS 02-10)](https://github.com/VILHALVA)
+* [A SABRINA NOS AJUDOU EM: 1) DEU A SUGESTÃO DE VINCULARMOS ESSE PROJETO AO GRUPO. 2) NOS EMPRESTOU A SUA CONTA DO GITHUB PARA FAZER OS TESTES](https://github.com/SABRINA1623)
+* [FORAM CRIADOS COM INSPIRAÇÃO DO "OS PROGRAMADORES": 1) NA IDEIA DE CRIAR DESAFIOS PARA INICIANTES. 2) NO TRECHO DESSE README (INSTRUNÇÕES/O QUE FAZER DEPOIS DO ENVIO?). 3) NO DESAFIO 01](https://osprogramadores.com/desafios/)
+* [O CHATGPT NOS AJUDOU COM MELHORIAS DOS READMES](https://chat.openai.com)
