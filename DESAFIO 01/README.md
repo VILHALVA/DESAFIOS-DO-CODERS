@@ -20,3 +20,6 @@ Ao adicionar o seu nome, por favor observe:
 * Após concluir o desafio, siga as instruções do [README principal](https://github.com/VILHALVA/DESAFIOS-DO-CODERS/blob/main/README.md) para nos enviar.
 
 * Lembre-se de que os participantes devem adicionar seus próprios nomes e links do GitHub à tabela, seguindo essas instruções.
+
+## CREDITOS:
+* Esse desafio não foi criado por mim (VILHALVA), mas pelo ["OS PROGRAMADORES"](https://osprogramadores.com/desafios/d01/)
