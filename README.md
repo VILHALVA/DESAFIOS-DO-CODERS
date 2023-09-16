@@ -144,13 +144,17 @@ PRs sem atividade por duas semanas serão automaticamente fechados.
 * **02) O QUE EU GANHO FAZENDO ESSES DESAFIOS?**
 
 > R: Embora você não receba pontos ou recompensas materiais, existem vantagens significativas, incluindo:
-    > **APRENDIZADO:** Você não apenas aprimora suas habilidades de programação, mas também ganha experiência prática com o GitHub, uma plataforma essencial para desenvolvedores.
-    > **CONTRIBUIÇÃO:** Sua participação nos desafios é registrada em seu perfil do GitHub, o que pode ser um acréscimo valioso ao seu portfólio, demonstrando seu comprometimento com projetos colaborativos.
-    > **SEUS PROJETOS:** Programar não se resume apenas a fazer cursos; criar seus próprios projetos pessoais é uma maneira eficaz de aplicar seus conhecimentos e desenvolver habilidades autênticas.
+
+> **APRENDIZADO:** Você não apenas aprimora suas habilidades de programação, mas também ganha experiência prática com o GitHub, uma plataforma essencial para desenvolvedores.
+
+> **CONTRIBUIÇÃO:** Sua participação nos desafios é registrada em seu perfil do GitHub, o que pode ser um acréscimo valioso ao seu portfólio, demonstrando seu comprometimento com projetos colaborativos.
+
+> **SEUS PROJETOS:** Programar não se resume apenas a fazer cursos; criar seus próprios projetos pessoais é uma maneira eficaz de aplicar seus conhecimentos e desenvolver habilidades autênticas.
 
 * **3) QUEM GARANTE QUE O CONTRIBUINTE NÃO COPIOU O CÓDIGO DE ALGUÉM OU USOU O CHATGPT?**
 
 > R: Não temos a capacidade de verificar individualmente as fontes de código dos contribuintes, nem podemos garantir que alguém não tenha utilizado recursos como o ChatGPT. No entanto, incentivamos fortemente a originalidade e a ética na programação. Lembre-se de que, ao buscar oportunidades de emprego na área de TI, as empresas valorizam a habilidade de escrever código original e compreender profundamente os conceitos. O plágio pode prejudicar sua reputação profissional no longo prazo.
+
 > PS: Caso tenha copiado o código de alguém, cite os devidos créditos (A fonte) no seu README.
 
 ## CONSIDERAÇÕES FINAIS:
