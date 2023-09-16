@@ -14,7 +14,6 @@ Ao adicionar o seu nome, por favor observe:
 | SEU NOME                       | SEU GITHUB                               |
 | ------------------------------ | --------------------------------------- |
 | SEU NOME AQUI                  | https://github.com/SEU_USUARIO_AQUI      |
-| Outro Nome                     | https://github.com/OUTRO_USUARIO        |
 | ...                            | ...                                     |
 
 ---
