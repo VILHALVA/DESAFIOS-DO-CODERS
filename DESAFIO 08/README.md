@@ -4,7 +4,7 @@ Neste desafio, você terá a tarefa de criar um formulário de cadastro simples 
 ## Requisitos do Formulário de Cadastro
 O formulário de cadastro deve atender aos seguintes requisitos:
 
-* **Campos de Cadastro**: O formulário deve incluir campos para o usuário inserir seu nome, email e senha.
+* **Campos de Cadastro**: O formulário deve incluir campos para o usuário inserir seu email e senha.
 
 * **Validação de Dados**: Implemente validação nos campos do formulário para garantir que as informações inseridas sejam válidas e seguras. Isso pode incluir a verificação do formato do email, a força da senha, entre outros.
 
@@ -13,7 +13,7 @@ O formulário de cadastro deve atender aos seguintes requisitos:
 * **Feedback ao Usuário**: Forneça feedback claro ao usuário após a submissão do formulário, informando se o cadastro foi bem-sucedido ou se ocorreu algum erro.
 
 ## Instruções para o Desafio
-1. Crie um formulário de cadastro utilizando HTML para definir os campos de entrada (nome, email e senha).
+1. Crie um formulário de cadastro utilizando HTML para definir os campos de entrada (email e senha).
 
 2. Use CSS para estilizar o formulário e torná-lo atraente e amigável ao usuário.
 

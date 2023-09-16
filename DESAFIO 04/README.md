@@ -22,6 +22,8 @@ Neste desafio, você terá a tarefa de criar uma calculadora de console usando q
 
 10. **Progressão Aritmética**: Calcule os termos de uma progressão aritmética com base no primeiro termo, a diferença comum e o número de termos desejado.
 
+* **PS:** Você pode adicionar mais funções de calculos, caso queira.
+
 ## Instruções para o Desafio
 1. Escolha uma linguagem de programação da sua preferência para criar a calculadora de console.
 
