@@ -1,11 +1,11 @@
-# DESAFIOS DE PROGRAMADORES DO GRUPO CODERS
+# DESAFIOS DE PROGRAMADORES DO CANAL CODERS
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/FAÇA%20NOSSOS-CURSOS-03A9F4?logo=google)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
 <img src="https://cdn-icons-png.flaticon.com/128/4838/4838640.png" align="center" width="280"> <br>
 
 ## INTRODUÇÃO:
-Bem-vindo aos Desafios de Programação do Grupo CODERS! Neste repositório, você encontrará uma série de desafios voltados para aprimorar suas habilidades de programação e desenvolvimento. Estes desafios foram criados pelos membros entusiastas do [Grupo CODERS](https://t.me/CODIGOGP) e são projetados para oferecer oportunidades de aprendizado e colaboração.
+Bem-vindo aos Desafios de Programação do canal CODERS! Neste repositório, você encontrará uma série de desafios voltados para aprimorar suas habilidades de programação e desenvolvimento. Estes desafios foram criados pelos membros entusiastas do [CANAL CODERS](https://t.me/CODIGOCN) e são projetados para oferecer oportunidades de aprendizado e colaboração.
 
 Se você é apaixonado por codificação e deseja expandir seus conhecimentos, este é o lugar certo para começar. Antes de mergulhar nos desafios, certifique-se de atender aos requisitos e seguir as regras estabelecidas para uma experiência suave.
 
