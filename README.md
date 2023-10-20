@@ -9,7 +9,7 @@ Bem-vindo aos Desafios de Programação do canal CODERS! Neste repositório, voc
 
 Se você é apaixonado por codificação e deseja expandir seus conhecimentos, este é o lugar certo para começar. Antes de mergulhar nos desafios, certifique-se de atender aos requisitos e seguir as regras estabelecidas para uma experiência suave.
 
-Fique à vontade para explorar os desafios, fazer fork deste repositório e participar ativamente. Lembre-se de que a comunidade está aqui para ajudar e fornecer suporte, então, se tiver dúvidas ou precisar de assistência, não hesite em entrar em contato no nosso [Grupo CODERS](https://t.me/CODIGOGP).
+Fique à vontade para explorar os desafios, fazer fork deste repositório e participar ativamente. Lembre-se de que a comunidade está aqui para ajudar e fornecer suporte, então, se tiver dúvidas ou precisar de assistência, não hesite em entrar em contato no nosso [GRUPO](https://t.me/GRUPOCN/3013).
 
 Vamos juntos embarcar nesta jornada de aprendizado e programação! 
 
